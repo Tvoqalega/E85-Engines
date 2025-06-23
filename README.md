@@ -6,7 +6,7 @@ your deathmobile.
 
 **Present Content:**
 1. E85 fuel made from Gasoline+ethanol. E100 is basically 100% ethanol.
-2. A better use for the metric sh*tton of yeast you will generate from fermenting stuff.  LIQUID FERTILIZER USING YEAST!!!!
+2. A better use for the tons of yeast you will generate from fermenting stuff.  LIQUID FERTILIZER USING YEAST!!!!
 3. Natural Gas derived from mutant gas sacs. Its mainly Methane or Insect Farts....whatever is in their gas sacs, it burns and it burns well.
 IT IS CURRENTLY A LIQUID. I couldn't find a way to make recipes to be able to fill a pressurised tank like propane tank after crafting the Natural Gas, because of my limited
 knowledge of modding the game. :(
