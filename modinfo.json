@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "E85_Engines",
+    "name": "E85 Engines",
+    "authors": [ "Tvoqalega" ],
+    "maintainers": [ "Tvoqalega" ],
+    "description": "Your gasoline engines can run on moonshine or insect gases now.",
+    "category": "rebalance",
+    "dependencies": [ "dda" ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+{
+    "type": "material",
+    "id": "E85_material",
+    "name": "E85",
+    "density": 0.95,
+    "specific_heat_liquid": 4,
+    "specific_heat_solid": 2,
+    "latent_heat": 310,
+    "conductive": true,
+    "chip_resist": 0,
+    "dmg_adj": [ "lightly damaged", "damaged", "very damaged", "thoroughly damaged" ],
+    "bash_dmg_verb": "damaged",
+    "cut_dmg_verb": "damaged",
+    "fuel_data": {
+      "energy": "18390 kJ",
+      "explosion_data": { "chance_hot": 4.5, "chance_cold": 9.2, "factor": 0.3, "fiery": true, "size_factor": 0.1 }
+    },
+    "//": "Despite being set below the cutoff point for non-flammable liquids, burns quite well. 1L adds about 45 minutes to a fire at the lowest intensity bracket.",
+    "burn_data": [
+      { "fuel": 150, "smoke": 0, "burn": 1 },
+      { "fuel": 300, "smoke": 0, "burn": 2 },
+      { "fuel": 450, "smoke": 0, "burn": 3 }
+    ],
+    "resist": { "bash": 0, "cut": 0, "acid": 0, "heat": 0, "bullet": 0 }
+},
+{
+    "type": "material",
+    "id": "E100_material",
+    "name": "E100",
+    "density": 0.95,
+    "specific_heat_liquid": 4,
+    "specific_heat_solid": 2,
+    "latent_heat": 310,
+    "conductive": true,
+    "chip_resist": 0,
+    "dmg_adj": [ "lightly damaged", "damaged", "very damaged", "thoroughly damaged" ],
+    "bash_dmg_verb": "damaged",
+    "cut_dmg_verb": "damaged",
+    "fuel_data": {
+      "energy": "15600 kJ",
+      "explosion_data": { "chance_hot": 4.5, "chance_cold": 9.2, "factor": 0.3, "fiery": true, "size_factor": 0.1 }
+    },
+    "//": "Despite being set below the cutoff point for non-flammable liquids, burns quite well. 1L adds about 45 minutes to a fire at the lowest intensity bracket.",
+    "burn_data": [
+      { "fuel": 150, "smoke": 0, "burn": 1 },
+      { "fuel": 300, "smoke": 0, "burn": 2 },
+      { "fuel": 450, "smoke": 0, "burn": 3 }
+    ],
+    "resist": { "bash": 0, "cut": 0, "acid": 0, "heat": 0, "bullet": 0 }
+},
+{
+    "type": "material",
+    "id": "mLNG",
+    "name": "MethaneGas",
+    "copy-from": "hydrocarbons",
+    "fuel_data": {
+      "energy": "22000 kJ",
+      "explosion_data": { "chance_hot": 20, "chance_cold": 1000, "factor": 0.2, "fiery": false, "size_factor": 0.1 }
+    }
+  }
+]

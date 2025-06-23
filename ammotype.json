@@ -1,0 +1,8 @@
+[
+ {
+    "type": "ammunition_type",
+    "id": "LNG",
+    "name": "Natural Gas",
+	"default": "LNG"
+ }
+]

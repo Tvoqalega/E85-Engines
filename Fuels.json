@@ -1,0 +1,43 @@
+[
+  {
+    "id": "E85",
+    "name": { "str_sp": "E85" },
+    "copy-from": "gasoline",
+    "weight": "750 mg",
+    "material": [ "E85_material" ],
+    "type": "AMMO",
+    "description": "A highly flammable mix of ethanol and gasoline.  When under pressure, it has the potential for violent explosion.",
+    "price": 15,
+    "price_postapoc": 30
+  },
+  {
+    "id": "E100",
+    "name": { "str_sp": "E100" },
+    "copy-from": "gasoline",
+    "weight": "750 mg",
+    "material": [ "E100_material" ],
+    "type": "AMMO",
+    "description": "Straight 100% Ethanol fuel. Less energy dense than E85 or Gasoline, but renewable fuel.",
+    "price": 15,
+    "price_postapoc": 30
+  },
+  {
+    "id": "LNG",
+    "type": "AMMO",
+    "name": { "str_sp": "Natural Gas" },
+    "description": "Liquified Natural Gas, mainly mehtane. Basically liquified cow farts.",
+    "weight": "426 mg",
+    "volume": "200ml",
+    "price": 200,
+    "price_postapoc": 500,
+    "count": 250,
+    "stack_size": 200,
+    "category": "chems",
+    "phase": "liquid",
+	"flags": [ "NO_DROP" ],
+    "material": [ "mLNG" ],
+    "symbol": "~",
+    "color": "white",
+    "ammo_type": "LNG"
+  }
+]
