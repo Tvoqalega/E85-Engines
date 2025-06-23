@@ -13,6 +13,9 @@ knowledge of modding the game. :(
 4. Fertilizers made from chitin powder. 
 5. Gasoline Engines now run on Gasoline, E85, E100, and LNG.
 
+Instalation: 
+Simple drag and drop to mods folder.
+
 **Compitability**
 Should be fine to use with any mod. 
 Exept maybe ones that change combustion.json file in the vehicleparts folder in main game since this mod overwrites that file at the moment.
