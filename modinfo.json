@@ -6,7 +6,7 @@
     "authors": [ "Tvoqalega" ],
     "maintainers": [ "Tvoqalega" ],
     "description": "Your gasoline engines can run on moonshine or insect gases now.",
-    "category": "rebalance",
+    "category": "content",
     "dependencies": [ "dda" ]
   }
 ]
