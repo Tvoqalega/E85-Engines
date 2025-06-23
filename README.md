@@ -11,7 +11,11 @@ your deathmobile.
 IT IS CURRENTLY A LIQUID. I couldn't find a way to make recipes to be able to fill a pressurised tank like propane tank after crafting the Natural Gas, because of my limited
 knowledge of modding the game. :(
 4. Fertilizers made from chitin powder. 
-5. Gasoline Engines now run on Gasoline, E85, E100, and LNG. 
+5. Gasoline Engines now run on Gasoline, E85, E100, and LNG.
+
+**Compitability**
+Should be fine to use with any mod. 
+Exept maybe ones that change combustion.json file in the vehicleparts folder in main game since this mod overwrites that file at the moment.
 
 
 
@@ -24,3 +28,4 @@ without the need for modification, which is kind of not the case irl.
 4. Make E85 available in some Gas Stations, but rare.
 5. Add more IRL uses of yeast to the game. Because you will produce tooo damn much of it going the moonshine burning route.
 8. More uses for Natural Gas and Propane. 
+
