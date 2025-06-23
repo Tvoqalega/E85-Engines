@@ -13,7 +13,7 @@ knowledge of modding the game. :(
 4. Fertilizers made from chitin powder. 
 5. Gasoline Engines now run on Gasoline, E85, E100, and LNG.
 
-Instalation: 
+**Instalation: **
 Simple drag and drop to mods folder.
 
 **Compitability**
